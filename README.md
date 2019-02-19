@@ -1,5 +1,4 @@
 # Some Hacking Tools 
-By:- Ankit Saxsena
 Here this repository contains some tools made by me for Beginners to undersatand some topics of cyber security. These are some example or say implementation of every tool contains it's own Readme file to make their working understandable. So, please try to go through documentation to execute the code
 
 | **Folder No** | **Tool Name** | **Language Used**
@@ -22,3 +21,5 @@ Here this repository contains some tools made by me for Beginners to undersatand
 |16      |vulnerability scanner              |`python`
 |17      |windows wifi password report virus |`python`
 |18      |Zip Cracker                        |`python`
+
+By :- Ankit Saxsena
